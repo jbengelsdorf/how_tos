@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my how_tos
 
-This is my first [Tutorial](how_to_generate_content.md)
+### How to: Generate Content
+Link to my [Tutorial](how_to_generate_content.md) on how to generate content for alfred3-experiments.
+
+### How to: SurveyCircle
+Link to my [Tutorial](how_to_surveycircle.md) on how to get started with SurveyCircle.
+
+### Introduction to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jbengelsdorf/how_tos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
